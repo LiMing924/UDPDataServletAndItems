@@ -1,0 +1,2 @@
+# UDPDataServletAndItems
+UDP数据发送和接收处理工具包及在此基础上开发的服务器框架和客户端模版
